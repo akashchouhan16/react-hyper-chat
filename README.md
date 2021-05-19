@@ -13,7 +13,7 @@ The auth credentials and the chats are saved onto the browser's **localStorage**
 
 **Application Hosted here : [React Hyper Chat](https://hyperchatac16.netlify.app "Open HyperChat")**
 
-> To Try out the app, login with a Guest credential provide below
+> To Try out the app, login with a Guest credential provided below :
 
 - **Username :** `guest_user`
 - **Password :** `guest123`
@@ -27,8 +27,6 @@ The auth credentials and the chats are saved onto the browser's **localStorage**
   ![ChatPreview](./assets/Chats.gif)
 
 ---
-
-## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -98,3 +96,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---
