@@ -1,4 +1,34 @@
-# Getting Started with Create React App
+# React Hyper Chat
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity "Repo Maintained")
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/akashchouhan16/ "github.com/akashchouhan16")
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/ "VSCODE")
+[![GitHub issues](https://img.shields.io/github/issues/akashchouhan16/react-hyper-chat.svg)](https://github.com/akashchouhan16/react-hyper-chat/issues)![GitHub last commit](https://img.shields.io/github/last-commit/akashchouhan16/react-hyper-chat.svg)
+
+<!-- [![GitHub stars](https://img.shields.io/github/stars/akashchouhan16/react-hyper-chat.svg?style=social)](https://github.com/akashchouhan16/react-hyper-chat/stargazers)-->
+
+A Real time React Chat application built using **React hooks**, **jsx** and **React chat Engine**.
+
+The auth credentials and the chats are saved onto the browser's **localStorage** to provide data persistence.
+
+**Application Hosted here : [React Hyper Chat](https://hyperchatac16.netlify.app "Open HyperChat")**
+
+> To Try out the app, login with a Guest credential provide below
+
+- **Username :** `guest_user`
+- **Password :** `guest123`
+
+## Preview
+
+- **Login**
+  ![LoginPreview](./assets/appLogin.gif)
+
+- **Groups & Chat**
+  ![ChatPreview](./assets/Chats.gif)
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
